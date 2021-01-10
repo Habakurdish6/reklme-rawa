@@ -84,5 +84,5 @@ ${saewan.content}`
 
 // ======== { • TOKENN • }======== //
 
-client.login("Nzc2MDc5OTk4MDMyODA1ODg4.X6vq0g.hFWfe6Dg8d60Lguvs0woM-YarXg");
+client.login("Nzc2MDc5OTk4MDMyODA1ODg4.X6vq0g.OweuLpNbfPzlrsDrBnfLTAQl8H8");
 ////////////////تکایە دەسکاری ئێرەمەکە تا ریمێکس دەیکت
